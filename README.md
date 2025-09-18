@@ -10,9 +10,11 @@ Languages Practiced:
 - JavaScript
 - C++
 
-**About me, outside of coding**
+---
+## **About me, *outside of coding***
 
 I have a passion for animals, and have helped my family rescue and rehabilitate horses, reptiles, rodents, and other livestock. 
 I'm also quite a fast learner, I can play 7 different instruments (my favourites being the guitar, and my hand-painted banjo). 
+
 My favourite game franchises are Halo and the Batman Arkham series (not the recent games...), and I enjoy achievement-hunting on them.
 
