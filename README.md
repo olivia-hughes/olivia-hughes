@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to my profile.
 
-<!--
-**olivia-hughes/olivia-hughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year undergraduate student at the University of Essex, eager to join the world of data analysis and software engineering. 
+I’m currently taking the time to transfer my projects from university onto GitHub for the public to see, and for constructive criticism before the academic year starts.
 
-Here are some ideas to get you started:
+Languages Practiced:
+- Python
+- Java
+- HTML, CSS, PHP
+- JavaScript
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me, outside of coding**
+
+I have a passion for animals, and have helped my family rescue and rehabilitate horses, reptiles, rodents, and other livestock. 
+I'm also quite a fast learner, I can play 7 different instruments (my favourites being the guitar, and my hand-painted banjo). 
+My favourite game franchises are Halo and the Batman Arkham series (not the recent games...), and I enjoy achievement-hunting on them.
+
