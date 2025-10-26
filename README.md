@@ -1,20 +1,16 @@
-# Welcome to my profile.
+# Hi there!
 
-I am a second-year undergraduate student at the University of Essex, eager to join the world of data analysis and software engineering. 
-I’m currently taking the time to transfer my projects from university onto GitHub for the public to see, and for constructive criticism before the academic year starts.
+## About me
 
-Languages Practiced:
-- Python
-- Java
-- HTML, CSS, PHP
-- JavaScript
-- C++
+I am Olivia Hughes, a second-year undergraduate student at the University of Essex, pursuing my Bachelor (with Honours) degree in Computer Science & Engineering.
 
----
-## **About me, *outside of coding***
+I enjoy learning about a wide range of topics in this broad subject, and am currently studying data structures and algorithms, application programming, and software engineering- just to name a few. 
 
-I have a passion for animals, and have helped my family rescue and rehabilitate horses, reptiles, rodents, and other livestock. 
-I'm also quite a fast learner, I can play 7 different instruments (my favourites being the guitar, and my hand-painted banjo). 
+Alongside Python and Java, I am learning C++ as a module at my university also. On my profile here, you can see me putting these fundamental ideas learned in my classes into practice :)
 
-My favourite game franchises are Halo and the Batman Arkham series (not the recent games...), and I enjoy achievement-hunting on them.
+~~
+
+Outside of the world of tech, I have a range of hobbies and skills that I put to use- I can play 7 instruments (mostly string!), I love to paint, and I'm trying to get into archery as well. 
+
+I also love videogames, and reading biographies- my favourite game is Batman Arkham City (with the second being Halo Reach), and the book I am currently reading is the Definitive Story of Elliot Smith. 
 
