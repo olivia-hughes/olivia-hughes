@@ -1,10 +1,12 @@
 # Hi there!
 
-## About me
+## Welcome to my profile!
 
-I am Olivia Hughes, a second-year undergraduate student at the University of Essex, pursuing my Bachelor (with Honours) degree in Computer Science & Engineering.
+I am Olivia, a second-year undergraduate student at the University of Essex, pursuing my Bachelor (with Honours) degree in Computer Science & Engineering.
 
-I enjoy learning about a wide range of topics in this broad subject, and am currently studying data structures and algorithms, application programming, and software engineering- just to name a few. 
+I am pursuing the field of computer science for the purpose of boosting not just my own, but other's knowledge on this very broad industry. Alongside posting on here, I also frequent cheatography.com and make posts teaching people difficult topics.
+Click my cheatography profile here!
+I have amassed almost 500,000 views on cheatography, helping to aid other's understandings of computer science. 
 
 Alongside Python and Java, I am learning C++ as a module at my university also. On my profile here, you can see me putting these fundamental ideas learned in my classes into practice :)
 
