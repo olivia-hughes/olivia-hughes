@@ -1,4 +1,5 @@
-## Welcome
+
+![image](https://github.com/user-attachments/assets/e2a980e7-dd07-4ec7-a73e-52eafd63d867)
 #### Who I am, What I do
 - As of 2026, I am a 2nd-year undergraduate student studying Computer Science (BSC with Hons).
 - I grew up in a small town in Essex, GB, but that never stopped me from dreaming big. When I was a child, I visited by Grandfather's house often, and he would always show me how proud he was of his dual monitors, and the newest iPads and such- I owe my interest in technology to him. 
