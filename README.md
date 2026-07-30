@@ -8,7 +8,7 @@
 - Outside of full-time education, I play instruments (guitar mostly, but I can pick up a bass or banjo from time-to-time), and I practice archery. Besides these, I am a helping hand on my family's animal rescue sanctuary in our beloved countryside.
 - In true Sci-Fi lover fashion, my favourite franchise is X-Files :)
 
---
+---
 #### What I use
 Currently, I am studying for my exams. 
 Up until this point, I liked using the Notion software to be my hub for university notes, but I have since jumped-ship to GitHub so I can expand on my notes in an environment more suitable for a coding student. 
