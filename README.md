@@ -1,5 +1,7 @@
 
 ![image](https://github.com/user-attachments/assets/e2a980e7-dd07-4ec7-a73e-52eafd63d867)
+![image](https://github.com/user-attachments/assets/c4ec7366-4fc6-4f9f-82f8-ad599c8b0f17)
+
 #### Who I am, What I do
 - As of 2026, I am a 2nd-year undergraduate student studying Computer Science (BSC with Hons).
 - I grew up in a small town in Essex, GB, but that never stopped me from dreaming big. When I was a child, I visited by Grandfather's house often, and he would always show me how proud he was of his dual monitors, and the newest iPads and such- I owe my interest in technology to him. 
@@ -7,6 +9,8 @@
 - I believe fully that active learning methods such as group discussion, practice, and teaching others are much more beneficial to understanding a topic yourself than the more passive methods such as audio-visuals and demonstration.
 - Outside of full-time education, I play instruments (guitar mostly, but I can pick up a bass or banjo from time-to-time), and I practice archery. Besides these, I am a helping hand on my family's animal rescue sanctuary in our beloved countryside.
 - In true Sci-Fi lover fashion, my favourite franchise is X-Files :)
+
+![image](https://github.com/user-attachments/assets/c4ec7366-4fc6-4f9f-82f8-ad599c8b0f17)
 
 ### What I use
 ![image](https://camo.githubusercontent.com/1f2650ef73434e5249762d53dc73a66ea46a227d1f6fc56434b56642419fc729/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d42726176655f42726f777365722d4642353432423f7374796c653d666c61742d737175617265266c6f676f3d6272617665266c6f676f436f6c6f723d7768697465)
@@ -19,3 +23,5 @@ Currently, I am studying for my exams.
 Up until this point, I liked using the Notion software to be my hub for university notes, but I have since jumped-ship to GitHub so I can expand on my notes in an environment more suitable for a coding student. 
 
 I currently code in Java and C++ as my main languages, but I do dabble in some Python as well. In the future, I will be pursuing TypeScript. 
+
+![image](https://github.com/user-attachments/assets/c4ec7366-4fc6-4f9f-82f8-ad599c8b0f17)
