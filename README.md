@@ -5,4 +5,3 @@
 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=olivia-hughes&layout=donut&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=olivia-hughes&layout=donut&langs_count=6&theme=vue-dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=olivia-hughes&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=olivia-hughes&include_all_commits=true&theme=vue-dark)
