@@ -5,4 +5,4 @@
 CompSci Student
 
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=olivia-hughes&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=olivia-hughes&langs_count=4&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=olivia-hughes&layout=compact&langs_count=9&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=olivia-hughes&layout=compact&langs_count=9&theme=dark)
