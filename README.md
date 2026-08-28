@@ -1,8 +1,12 @@
 
 ![image](https://github.com/user-attachments/assets/e2a980e7-dd07-4ec7-a73e-52eafd63d867)
 ---
+# Hi, I'm Olivia
+A third-year computer science student aspiring to go into C++ & Python software development.
 
-Third-year CompSci Student currently working on an adaptive aim training system to improve player's mouse precision and muscle control. 
+I have experience working in the backend of projects, integrating APIs, databases, and using tools such as Maven and Springboot, but my experience doesn't stop there. [Browse my LinkedIn.](https://www.linkedin.com/in/olivia-hughes-470b60384/)
+
+I am currently working on an adaptive aim training system to improve player's mouse precision and muscle control- this is an individual capstone project under the supervision of my professor at university. 
 
 ## My Stack
 #### Languages
