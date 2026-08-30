@@ -8,6 +8,8 @@ My interest in Computer Science started in secondary school in 2016, where I wou
 
 As a solo project in my spare time, I am creating a productivity app that will allow users to create an account, log in, create tasks, goals and store notes. At university, I am currently working on an adaptive aim training system to improve player's mouse precision and muscle control- this is an individual capstone project under the supervision of my professor at university. 
 
+If you would like to learn more about me, please refer to my [extended read-me.](https://github.com/olivia-hughes/extended-read-me)
+
 ## My Stack
 #### Languages
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
