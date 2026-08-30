@@ -6,7 +6,7 @@ A third-year computer science student aspiring to go into C++ & Python software 
 
 My interest in Computer Science started in secondary school in 2016, where I would then go onto explore this area in depth in further education (present). I have experience working in the backend of projects, integrating APIs, databases, and using tools such as Maven and Springboot, but my experience doesn't stop there. [Browse my LinkedIn.](https://www.linkedin.com/in/olivia-hughes-470b60384/)
 
-I am currently working on an adaptive aim training system to improve player's mouse precision and muscle control- this is an individual capstone project under the supervision of my professor at university. 
+As a solo project in my spare time, I am creating a productivity app that will allow users to create an account, log in, create tasks, goals and store notes. At university, I am currently working on an adaptive aim training system to improve player's mouse precision and muscle control- this is an individual capstone project under the supervision of my professor at university. 
 
 ## My Stack
 #### Languages
